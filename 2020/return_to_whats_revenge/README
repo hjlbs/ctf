@@ -1,0 +1,14 @@
+Return to what's revenge
+442
+medium
+Author: Faith
+
+My friends kept making fun of me, so I hardened my program even further!
+
+The flag is located at /chal/flag.txt.
+
+nc chal.duc.tf 30006
+
+Attached files:
+
+return-to-whats-revenge (sha256: 489734ecb8d2595faf11033f34724171cbb96a15e10183f3b17ef4c7090b8ebc)
